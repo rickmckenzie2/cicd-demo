@@ -1,7 +1,7 @@
 # Site settings
 title: CI and CD with GitHub
 description: A demo blog
-email: rickmcken@@gml.com
+email: rickmcken@@gmail.com
 github_username:  githubtraining
 baseurl:
 url: https://githubtraining-cicd-demo.herokuapp.com
